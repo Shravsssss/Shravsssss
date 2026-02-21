@@ -160,11 +160,3 @@ I'm interested in AI Agents, cloud development, distributed systems, ML engineer
 [![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shravsssss.github.io)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
-
-</div>
