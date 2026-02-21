@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sravya%20Yepuri&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%26%20LLM%20Infrastructure%20%7C%20Published%20Researcher&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI-powered+systems+that+ship+to+production;From+LLM+pipelines+to+distributed+microservices" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Sravya+Yepuri" alt="Typing SVG" /></a>
 
 <br/>
 
