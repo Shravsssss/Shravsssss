@@ -95,13 +95,12 @@ Currently open to SDE, ML Engineering, and Platform Engineering opportunities.
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
-
 ## 📄 Publications
 
 | Paper | Venue | DOI |
 |-------|-------|-----|
-| **Classification of Blood Cell Data using the Deep Learning Approach** | IITCEE 2023 | [10.1109/IITCEE57236.2023.10090986]([https://ieeexplore.ieee.org/document/10090986](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uXbNikwAAAAJ&citation_for_view=uXbNikwAAAAJ:u-x6o8ySG0sC)) |
-| **StoryTube: Generating 2D Animation for a Short Story** | ICCIKE 2023, Amity University, Dubai | [10.1109/ICCIKE58312.2023.10131811]([https://ieeexplore.ieee.org/document/10131811](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uXbNikwAAAAJ&citation_for_view=uXbNikwAAAAJ:u5HHmVD_uO8C)) |
+| **Classification of Blood Cell Data using the Deep Learning Approach** | IITCEE 2023 | [10.1109/IITCEE57236.2023.10090986](https://scholar.google.com/scholar?q=10.1109/IITCEE57236.2023.10090986) |
+| **StoryTube: Generating 2D Animation for a Short Story** | ICCIKE 2023, Amity University, Dubai | [10.1109/ICCIKE58312.2023.10131811](https://scholar.google.com/scholar?q=10.1109/ICCIKE58312.2023.10131811) |
 
 ---
 
