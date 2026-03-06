@@ -105,48 +105,6 @@ Currently open to SDE, ML Engineering, and Platform Engineering opportunities.
 
 ---
 
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td>
-
-### 🎯 North Carolina State University
-**Master of Computer Science** | GPA: 3.9/4.0 | May 2025
-
-Teaching Assistant: AI for Engineering Applications, Graph Theory
-
-</td>
-<td>
-
-### 🎯 PES University, Bengaluru
-**B.Tech in Computer Science** | GPA: 8.9/10.0 | Jul 2023
-
-</td>
-</tr>
-</table>
-
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![R](https://img.shields.io/badge/R_Programming-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shravsssss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravsssss&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravsssss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="180"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
